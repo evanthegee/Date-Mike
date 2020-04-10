@@ -1,0 +1,81 @@
+body{
+	margin: 0;
+}
+
+h1, h2{
+	font-family: 'Special Elite', cursive;
+}
+
+header{
+	background-color:  #3c1361;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+header h1{
+	color: white;
+	font-family: 'Special Elite', cursive;
+	font-size: 50px;
+}
+
+header h2{
+	color:white;
+	font-size:30px;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+	border:15px solid #663a82;
+}
+
+main{
+	max-width: 800px;
+	text-align: center;
+	margin:0 auto;
+	padding: 15px 20px 20px 40px;
+	font-family: 'Special Elite', cursive;
+}
+
+main img{
+	align-content: center;
+}
+
+
+h2{
+	font-size: 35px
+	color: #3c1361;
+}
+
+p {
+	color: #3c1361
+}
+
+a{
+	color: #7c5295;
+}
+
+li{
+	color: #3c1361;
+	text-align:left;
+}
+
+footer{
+	background-color:  #3c1361;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-family: 'Special Elite', cursive;
+}
+
+footer p{
+	color: white;
+}
+
+p.caption{
+	color: grey;
+	font-style: italic;
+	margin-top: 0;
+	font-size: 15px;
+}
